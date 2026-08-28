@@ -160,3 +160,4 @@ D:\csharptest\SauceDemoSolution\SauceDemo\obj\Debug\net10.0\refint\SauceDemo.dll
 D:\csharptest\SauceDemoSolution\SauceDemo\obj\Debug\net10.0\SauceDemo.pdb
 D:\csharptest\SauceDemoSolution\SauceDemo\obj\Debug\net10.0\SauceDemo.genruntimeconfig.cache
 D:\csharptest\SauceDemoSolution\SauceDemo\obj\Debug\net10.0\ref\SauceDemo.dll
+D:\csharptest\SauceDemoSolution\SauceDemo\obj\Debug\net10.0\SauceDemo.sourcelink.json
