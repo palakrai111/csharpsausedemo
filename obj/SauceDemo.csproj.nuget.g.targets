@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)selenium.webdriver.iedriver\4.14.0\build\Selenium.WebDriver.IEDriver.targets" Condition="Exists('$(NuGetPackageRoot)selenium.webdriver.iedriver\4.14.0\build\Selenium.WebDriver.IEDriver.targets')" />
+    <Import Project="$(NuGetPackageRoot)selenium.webdriver.chromedriver\152.0.7977.6400\build\Selenium.WebDriver.ChromeDriver.targets" Condition="Exists('$(NuGetPackageRoot)selenium.webdriver.chromedriver\152.0.7977.6400\build\Selenium.WebDriver.ChromeDriver.targets')" />
     <Import Project="$(NuGetPackageRoot)microsoft.testing.platform.msbuild\1.5.3\buildTransitive\Microsoft.Testing.Platform.MSBuild.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.testing.platform.msbuild\1.5.3\buildTransitive\Microsoft.Testing.Platform.MSBuild.targets')" />
     <Import Project="$(NuGetPackageRoot)nunit3testadapter\5.0.0\build\netcoreapp3.1\NUnit3TestAdapter.targets" Condition="Exists('$(NuGetPackageRoot)nunit3testadapter\5.0.0\build\netcoreapp3.1\NUnit3TestAdapter.targets')" />
     <Import Project="$(NuGetPackageRoot)microsoft.testplatform.testhost\17.14.0\build\net8.0\Microsoft.TestPlatform.TestHost.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.testplatform.testhost\17.14.0\build\net8.0\Microsoft.TestPlatform.TestHost.targets')" />

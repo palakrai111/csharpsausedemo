@@ -5,6 +5,7 @@ D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\nunit.engine.dll
 D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\nunit.engine.api.dll
 D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\nunit.engine.core.dll
 D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\testcentric.engine.metadata.dll
+D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\testdata\Logindata.json
 D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\NUnit3.TestAdapter.dll
 D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\SauceDemo.deps.json
 D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\SauceDemo.runtimeconfig.json
@@ -12,6 +13,14 @@ D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\SauceDemo.dll
 D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\SauceDemo.pdb
 D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\Microsoft.ApplicationInsights.dll
 D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\Microsoft.Extensions.Configuration.dll
+D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\Microsoft.Extensions.Configuration.Json.dll
+D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\Microsoft.Extensions.Primitives.dll
 D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\Microsoft.Testing.Extensions.Telemetry.dll
 D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
 D:\csharptest\SauceDemoSolution\SauceDemo\bin\Debug\net10.0\Microsoft.Testing.Extensions.VSTestBridge.dll
@@ -154,10 +163,10 @@ D:\csharptest\SauceDemoSolution\SauceDemo\obj\Debug\net10.0\SauceDemo.GeneratedM
 D:\csharptest\SauceDemoSolution\SauceDemo\obj\Debug\net10.0\SauceDemo.AssemblyInfoInputs.cache
 D:\csharptest\SauceDemoSolution\SauceDemo\obj\Debug\net10.0\SauceDemo.AssemblyInfo.cs
 D:\csharptest\SauceDemoSolution\SauceDemo\obj\Debug\net10.0\SauceDemo.csproj.CoreCompileInputs.cache
+D:\csharptest\SauceDemoSolution\SauceDemo\obj\Debug\net10.0\SauceDemo.sourcelink.json
 D:\csharptest\SauceDemoSolution\SauceDemo\obj\Debug\net10.0\SauceDemo.csproj.Up2Date
 D:\csharptest\SauceDemoSolution\SauceDemo\obj\Debug\net10.0\SauceDemo.dll
 D:\csharptest\SauceDemoSolution\SauceDemo\obj\Debug\net10.0\refint\SauceDemo.dll
 D:\csharptest\SauceDemoSolution\SauceDemo\obj\Debug\net10.0\SauceDemo.pdb
 D:\csharptest\SauceDemoSolution\SauceDemo\obj\Debug\net10.0\SauceDemo.genruntimeconfig.cache
 D:\csharptest\SauceDemoSolution\SauceDemo\obj\Debug\net10.0\ref\SauceDemo.dll
-D:\csharptest\SauceDemoSolution\SauceDemo\obj\Debug\net10.0\SauceDemo.sourcelink.json
